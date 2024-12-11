@@ -18,6 +18,7 @@ export default {
       'light-grayish-cyan' : 'hsl(185, 41%, 84%)',
       'very-light-grayish-cyan' : 'hsl(189, 41%, 97%)',
       'white' : 'hsl(0, 0%, 100%)',
+      'red-600':	'rgb(220 38 38)',
     }
   },
   plugins: [],
